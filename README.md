@@ -82,3 +82,9 @@ SuprMentr Technologies | September 2024 – February 2025
 > Learn consistently. Build practically. Improve continuously.
 
 ⭐ Thanks for visiting my profile!
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=khpavanreddy2&theme=tokyonight)
